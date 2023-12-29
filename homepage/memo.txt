@@ -1,0 +1,20 @@
+ Installation Links
+
+Windows:
+https://git-scm.com/
+
+Mac:
+https://brew.sh/ 
+brew install git
+
+
+Commands used:
+
+git --version
+Check if git is installed
+git config --list
+See current credentials
+git config --global user.name "your name"
+Adjusts your name in the git settings 
+git config --global user.email "your email"
+Adjusts your email in the git settings 
